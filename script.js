@@ -63,7 +63,15 @@ const messages = [
     "Ilda jangan kek gitu, pelit heh",
     "Ilda😊",
     "Yoklah weh",
-    "Satu match senyo yoklah hehe...."
+    "Satu match senyo yoklah hehe....",
+    "Jangan lah pelit",
+    "Ilda weh....",
+    "Mabar",
+    "Mabar",
+    "YESSSSS",
+    "Yessssss",
+    "hmmmm...."
+    
 ];
 
 let messageIndex = 0;
